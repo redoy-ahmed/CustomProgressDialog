@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.comix.overwatch.HiveProgressView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/hive_progress"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        app:hive_animDuration="5000"
+        app:hive_color="@color/colorAccent"
+        app:hive_cornerRadius="20"
+        app:hive_maxAlpha="100"
+        app:hive_rainbow="true"
+        app:hive_shrink="true"/>
